@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm ANDRIAMIARINTSOA Tsilavina Kevin 👋 
+### Full-Stack & Mobile Developer | Web, Mobile & AI Solutions
 
-<!--
-**andriamiarintsoaKevin/andriamiarintsoaKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Tech Stack: **Laravel | React | Python | Flutter | React Native**
+- 💡 Specializing in: **SaaS Platforms, Cross-Platform Mobile Apps, AI Integration**
+- 🛠️ Currently building: High-performance web apps & mobile solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Skills & Technologies
+- **Mobile:** Flutter, React Native (iOS / Android)
+- **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS
+- **Backend:** Laravel, Python (FastAPI, Django), REST APIs
+- **Database & DevOps:** PostgreSQL, MySQL, Docker, Git
